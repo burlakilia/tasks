@@ -11,6 +11,10 @@
 		"name": "Реализовать функцию sum"
 	},
 
+	"decorator": {
+		"name": "Реализовать логирующий декоратор"
+	},
+
 	"minmax": {
 		"name": "Найти min/max"
 	},
@@ -46,10 +50,6 @@
 
 	"waterfall": {
 		"name": "Реализовать waterfall"
-	},
-
-	"dropdown": {
-		"name": "Dropdown должен наследовать Widget"
 	},
 
 	"extend": {
